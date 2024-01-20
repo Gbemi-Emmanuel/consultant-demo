@@ -1,7 +1,7 @@
 /**
-* Template Name: Dewi
+* Template Name: Demo
 * Updated: Jan 09 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
+* Template URL: https://bootstrapmade.com/Demo-free-multi-purpose-html-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
